@@ -1,6 +1,6 @@
 # Hypothesis-Testing
 
-##Objective
+## Objective
 Practicing hypothesis testing using Python programming language. From the dataset given, hypothesis testing should be done to prove/test either education influencing income or not.
 
 ## Data and Data Source
